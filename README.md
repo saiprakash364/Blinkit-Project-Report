@@ -20,3 +20,13 @@ To analyze Blinkit’s sales performance, customer preferences, and outlet chara
 - Which outlet types and sizes perform best in terms of average sales and ratings?
 
 - Dashboard Interaction <a href="https://github.com/saiprakash364/Blinkit-Project-Report/blob/main/WhatsApp%20Image%202025-08-09%20at%2022.46.24_1635c988.jpg">View Dashboard</a>
+
+## Process
+
+- Collected sales and outlet data from Blinkit records.
+
+- Cleaned and transformed data in Power BI.
+
+- Designed visualizations for sales distribution by item type, outlet size, location, and establishment year.
+
+- Compared average ratings, sales per item, and item visibility across categories.
