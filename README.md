@@ -1,4 +1,4 @@
-# Blinkit Customer Insights Analysis
+# Power BI Customer Insights Dashboard - Blinkit
 
 ## Project Overview
 
@@ -30,3 +30,26 @@ To analyze Blinkit’s sales performance, customer preferences, and outlet chara
 - Designed visualizations for sales distribution by item type, outlet size, location, and establishment year.
 
 - Compared average ratings, sales per item, and item visibility across categories.
+
+## Dashboard
+
+![WhatsApp Image 2025-08-09 at 22 46 24_1635c988](https://github.com/user-attachments/assets/db676cbf-1ea9-4055-b8db-104b3053b1f6)
+
+## Project Insights
+
+- Total Sales: $1.20M with an average sale of $141.
+
+- Top Fat Content Category: Low Fat products lead with $776.32K in sales, followed by Regular at $425.36K.
+
+- Top Item Types by Sales: Fruits, Snacks, and Household items dominate revenue share.
+
+- Outlet Performance: Medium-sized outlets generate the highest sales ($507.9K), followed by small-sized outlets.
+
+- Outlet Type: Supermarket Type1 accounts for the majority of sales ($787.55K).
+
+- Location Impact: Tier 3 cities outperform Tier 1 and Tier 2 in total sales.
+
+
+## Final Conclusion
+Blinkit’s sales are driven by Low Fat products, fruits, snacks, and medium-sized outlets. Tier 3 cities and Supermarket Type1 outlets are the top revenue contributors. A focus on expanding high-performing outlet formats and promoting top-selling categories can further enhance overall profitability.
+
